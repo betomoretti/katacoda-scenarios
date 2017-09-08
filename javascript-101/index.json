@@ -1,0 +1,29 @@
+{
+  "title": "Javascript 101",
+  "description": "Bienvenidos al Workshop de javascript 101",
+  "difficulty": "beginner",
+  "time": "none",
+  "details": {
+    "steps": [{
+      "title": "Primer paso - Creando un botiquin",
+      "text": "creando-botiquin.md"
+    },{
+      "title": "Segundo paso - Publicandolo",
+      "text": "publicando.md"
+    }],
+    "intro": {
+      "text": "introduccion.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "final.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal",
+    "uimessage1": "\u001b[32mTu ambiente javascript interativo.\r\n\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "node6"
+  }
+}
